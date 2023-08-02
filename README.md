@@ -7,4 +7,4 @@ This application is a scheduler for the user's workday. The current date is disp
 
 ## Link to Deployed Application
 
-https://brianmyer.github.io/Word-Day-Scheduler/
+https://brianmyer.github.io/Work-Day-Scheduler/
